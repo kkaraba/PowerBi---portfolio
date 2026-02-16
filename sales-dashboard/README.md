@@ -24,6 +24,9 @@ Interactive Power BI dashboard for analyzing e-commerce sales data.
 - Top 10 customers contribute X% of revenue
 - Peak orders on weekdays
 
+## Preview
+ https://github.com/kkaraba/PowerBi---portfolio/blob/main/sales-dashboard/ecommerce-dashboard.pdf
+
 ## 📬 Contact
 [Kostas Karampasis] - [kkarabasis@hotmail.com]
 
