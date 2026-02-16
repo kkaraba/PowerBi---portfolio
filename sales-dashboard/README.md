@@ -14,9 +14,6 @@ Interactive Power BI dashboard for analyzing e-commerce sales data.
 - DAX Measures
 - Star Schema Data Modeling
 
-## 📸 Preview
-![Dashboard Preview](dashboard_preview.png)
-
 ## 📁 Data Structure
 - customers: Customer demographics
 - products: Product catalog  
@@ -26,11 +23,7 @@ Interactive Power BI dashboard for analyzing e-commerce sales data.
 ## 📈 Key Insights
 - Top 10 customers contribute X% of revenue
 - Peak orders on weekdays
-- [Add your own insight]
-
-## 🎯 Live Demo
-[Power BI Service link - optional]
 
 ## 📬 Contact
-[Your Name] - [Your Email]
-Project Link: [GitHub URL]
+[Kostas Karampasis] - [kkarabasis@hotmail.com]
+
